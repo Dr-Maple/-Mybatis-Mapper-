@@ -1,0 +1,2 @@
+# -Mybatis-Mapper-
+For Maple
